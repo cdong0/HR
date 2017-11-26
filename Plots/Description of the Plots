@@ -1,0 +1,22 @@
+1. Clusters of Employee Turnover: 
+Cluster Orange: Hard-working and Sad Employees
+Cluster Red: Bad and Sad Employee
+Cluster Green: Hard-working and Happy Employee
+
+2. Correlation Matrix - Heatmap: 
+There is a positive correlation between projectCount, averageMonthlyHours, and evaluation; which means that the employees who spent more hours and did more projects were evaluated highly.
+For the negative relationships, left and satisfaction are highly correlated; which means that the people leave a company more when they are less satisfied.
+
+3. Decision Tree
+Decision Tree model with 94% accuracy.
+
+4. Distribution Plots
+Employee vs Satisfaction - A huge spike for employees with low satisfaction and high satisfaction.
+Employee vs Evaluation - A bimodal distrubtion sort of curve of employees for low evaluations and high evaluations (less than 0.6 & more than 0.8)
+Employee vs AverageMonthlyHours - A bimodal distribution of employees with lower and higher average monthly hours (less than 150 hours & more than 250 hours)
+
+5. Employee Department Turnover Distribution
+Department vs Churn pattern of Employees
+
+6. Employee Salary Turnover Distribution
+Salary vs Churn pattern of Employees
